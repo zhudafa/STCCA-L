@@ -1,4 +1,4 @@
-Code for Sparse Tensor Canonical Correlation Analysis: New Formulation and Convergent Algorithm
+Code for Sparse Tensor CCA via Manifold Optimization for Multi-View Learning
 
 You can run try_3sources.m to see the performance of TCCA-L on the 3sources dataset.
 
